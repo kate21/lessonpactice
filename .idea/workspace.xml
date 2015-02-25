@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b836d48-9fb5-4694-b166-1efb787c2f50" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="selenium-kateushakova.iws" />
@@ -615,6 +616,13 @@
       <option name="number" value="Default" />
       <updated>1423505090771</updated>
     </task>
+    <task id="LOCAL-00001" summary="Correct test">
+      <created>1424890427491</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1424890427491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -662,6 +670,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Correct test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
