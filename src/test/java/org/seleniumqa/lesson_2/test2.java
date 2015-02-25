@@ -10,50 +10,50 @@ import static org.testng.AssertJUnit.fail;
 /**
  * Created by admin on 11.02.2015.
  */
-public class test2 {
-    String month;
+//    *public class test2 {
+//    *  String month;
 
-    @BeforeTest
-    public void setUp() {
-        month = "2";
-    }
+//    *  @BeforeTest
+//    *  public void setUp() {
+//    *      month = "2";
+//    *   }
 
-    @Test
-    public void isCorrectMonth() {
-        assertTrue(isCorrect(month));
-    }
+//    *   @Test
+//    *   public void isCorrectMonth() {
+//    *       assertTrue(isCorrect(month));
+//    *   }
 
-    private boolean isCorrect(String month) {
+//    *    private boolean isCorrect(String month) {
 
-        String s1 = "January";
-        String s2 = "February";
-        String s3 = "March";
-        String s4 = "April";
-        String sd = "Error";
-        String n;
+//    *       String s1 = "January";
+                //    *       String s2 = "February";
+//    *      String s3 = "March";
+                //    *      String s4 = "April";
+//    *      String sd = "Error";
+//    *    String n;
 
 
-        switch (month) {
-            case ("1"): n = s1;
+//    *      switch (month) {
+//    *          case ("1"): n = s1;
 
-            case ("2"):
-                n = s2;
-            case ("3"):
-                n = s3;
+//    *        case ("2"):
+//    *            n = s2;
+                        //    *        case ("3"):
+//    *           n = s3;
 
-            case ("4"):
-                n = s4;
+//    *         case ("4"):
+//    *             n = s4;
 
-            default:
-                n = sd;
+//    *         default:
+//    *             n = sd;
 
-        }
+//    *     }
 
-        if ()
+//    *    if ()
 
-    }
-    @AfterTest
-    public void tearDown(){
-        month=0;
-    }
-}
+//    *  }
+//    *  @AfterTest
+//    *  public void tearDown(){
+//    *      month=0;
+//    *   }
+//    *}
